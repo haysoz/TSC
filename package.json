@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "oracledb": "^6.7.0"
+  },
+  "devDependencies": {
+    "@types/oracledb": "^6.5.2"
+  }
+}
